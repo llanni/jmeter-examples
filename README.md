@@ -5,4 +5,5 @@ Please note that in some test cases extra requirements may be needed (e.g. insta
 
 List of test cases:
 - TestBasicAuth.jmx -> Test the HTTP Basic Authentication against httpbin.org (on the website or on the site deployed on local via Docker)
-- ...
+- LogicControllers.jmx -> Usage of some logic controllers
+- BrowserRecording.jmx -> Example of a test case registered from a browser
